@@ -1,0 +1,41 @@
+body{
+
+     background-image: url("https://cdn.pixabay.com/photo/2016/02/18/20/02/seljalandsfoss-1207958_640.jpg");
+     background-repeat: no-repeat;
+     background-size:cover;
+     background-attachment: fixed;
+     border-color: black;
+}
+h1{
+     background-image:url("https://cdn.pixabay.com/photo/2014/04/17/23/26/environmental-protection-326923_640.jpg") ; 
+     border-radius: 200px;
+}
+h3{
+     background-color:bisque;
+     background-position:bottom;
+     height: 30px;
+     width: 10%;
+     border-radius: 300px;
+     border: 7px solid #aaded3;
+}
+h2{
+     background-image: url("https://cdn.pixabay.com/photo/2016/11/29/09/49/woman-1868817_640.jpg");
+     height: 30px;
+     width: 25%;
+     border-radius: 10px;
+     border: 7px solid hwb(120 33% 32%); 
+}
+#fe{
+     background-color: #aaded3;
+     height: 30px;
+     width: 40%;
+     border-radius: 10px;
+     border: 7px solid hwb(120 33% 32%);   
+}
+p{
+     background-color: #aaded3;
+     border-radius: 10px;
+     height: 100px;
+     width: 70%;
+     border: 7px solid hwb(120 33% 32%);
+}

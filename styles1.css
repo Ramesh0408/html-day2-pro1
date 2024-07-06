@@ -1,0 +1,29 @@
+body{
+     background-image: url("https://cdn.pixabay.com/photo/2016/11/29/09/49/woman-1868817_640.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+}
+h3{
+     background-color: bisque;
+     border-radius: 80px;
+     height: 30px;
+     width: 10%;
+     border: 5px solid rgb(36, 249, 12);
+}
+#de{
+     color: rgb(47, 37, 230) ;
+     background-color: aliceblue;
+     border-radius: 10px;
+     height: 80px;
+     width: 50%;
+     border: 5px solid rgb(36, 249, 12);
+}
+#de1{
+     color: rgb(47, 37, 230) ;
+     background-color: aliceblue;
+     border-radius: 10px;
+     height: 120px;
+     width: 50%;
+     border: 5px solid rgb(36, 249, 12);
+}
